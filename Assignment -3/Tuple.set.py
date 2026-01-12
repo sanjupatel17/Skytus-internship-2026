@@ -27,20 +27,16 @@ print(fruits)
 
 # 25 Add a new fruit to the set.
 
-thistuple = ("apple", "banana", "cherry")
-y = list(thistuple)
-y.append("orange")
-thistuple = tuple(y)
-print(tuple(y))
+fruits = {"apple", "banana", "cherry", "Mango","Kiwi"}
+fruits.add("orange")
+print(fruits)
 
 
 # 26 Remove an element from a set.
 
-thistuple = ("apple", "banana", "cherry")
-y = list(thistuple)
-y.remove("apple")
-thistuple = tuple(y)
-print(tuple(y))
+fruits = {"apple", "banana", "cherry", "Mango","Kiwi"}
+fruits.remove("banana")
+print(fruits)
 
 # 27 Find union of two sets.
 
@@ -79,4 +75,5 @@ print("subset  of sets:", is_subset)
 
 list = [1,2,34,21,34,56,56,7,8,79,9,21,79]
 set_list=set(list)
+
 print(set_list)
