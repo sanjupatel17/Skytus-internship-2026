@@ -1,0 +1,86 @@
+my name is sanju.
+Write a program to read a file and display its contents.
+Write a program to count the number of lines in a file.
+Write a program to count how many times each word appears in a file.
+Write a program to write 5 user-entered sentences to a file.
+Write a program to append a list of strings to an existing file.
+Write a program to read a file and print only lines containing a specific word.
+Write a program to replace a specific word in a file and save changes.
+Write a program to merge the contents of two text files into a third file.
+Write a program to read a CSV file and display its content in a formatted way.
+Write a program to back up a file by copying its contents into another file.
+	sanju 
+diya
+patel
+match 
+found
+fdhbfbsjdhadsfhb
+wdkjhgsiujdfhsiudfhgs
+dfgisjkfsjdfhsuidf
+gdgjfdghsukfgsdkuyf
+dfgfugfyusdgf
+my name is sanju.
+Write a program to read a file and display its contents.
+Write a program to count the number of lines in a file.
+Write a program to count how many times each word appears in a file.
+Write a program to wrote5 user-entered sentences to a file.
+Write a program to append a list of strings to an existing file.
+Write a program to read a file and print only lines containing a specific word.
+Write a program to replace a specific word in a file and save changes.
+Write a program to merge the contents of two text files into a third file.
+Write a program to read a CSV file and display its content in a formatted way.
+Write a program to back up a file by copying its contents into another file.
+	sanju 
+diya
+patel
+match 
+found
+fdhbfbsjdhadsfhb
+wdkjhgsiujdfhsiudfhgs
+dfgisjkfsjdfhsuidf
+gdgjfdghsukfgsdkuyf
+dfgfugfyusdgf
+my name is sanju.
+Write a wwwwto read a file and display its contents.
+Write a wwwwto count the number of lines in a file.
+Write a wwwwto count how many times each word appears in a file.
+Write a wwwwto write 5 user-entered sentences to a file.
+Write a wwwwto append a list of strings to an existing file.
+Write a wwwwto read a file and print only lines containing a specific word.
+Write a wwwwto replace a specific word in a file and save changes.
+Write a wwwwto merge the contents of two text files into a third file.
+Write a wwwwto read a CSV file and display its content in a formatted way.
+Write a wwwwto back up a file by copying its contents into another file.
+	sanju 
+diya
+patel
+match 
+found
+fdhbfbsjdhadsfhb
+wdkjhgsiujdfhsiudfhgs
+dfgisjkfsjdfhsuidf
+gdgjfdghsukfgsdkuyf
+dfgfugfyusdgf
+my name is sanju.
+Write a wwwwto read a file and display its contents.
+Write a wwwwto count the number of lines in a file.
+Write a wwwwto count how many times each word appears in a file.
+Write a wwwwto wrote5 user-entered sentences to a file.
+Write a wwwwto append a list of strings to an existing file.
+Write a wwwwto read a file and print only lines containing a specific word.
+Write a wwwwto replace a specific word in a file and save changes.
+Write a wwwwto merge the contents of two text files into a third file.
+Write a wwwwto read a CSV file and display its content in a formatted way.
+Write a wwwwto back up a file by copying its contents into another file.
+	sanju 
+diya
+patel
+match 
+found
+fdhbfbsjdhadsfhb
+wdkjhgsiujdfhsiudfhgs
+dfgisjkfsjdfhsuidf
+gdgjfdghsukfgsdkuyf
+dfgfugfyusdgf
+
+iladsrlihluxfvklhudlkjrgktjtrdsdoipugtrhudrityhdirgtherktqha9iurh   we98oirthb  liewu
