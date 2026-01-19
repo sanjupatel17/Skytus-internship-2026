@@ -46,7 +46,7 @@ while True:
     print("3. View Cart")
     print("4. Exit")
 
-    choice = input("Enter your choice (1-4): ")
+    choice = input("Enter your choice : ")
 
     if choice == '1':
         item = input("Enter item name: ")
@@ -67,6 +67,7 @@ while True:
 
     else:
         print("Invalid choice. Please try again.")
+
 
 
 
