@@ -127,48 +127,7 @@ order by total_revenue desc;
 
 
 
- --   assignmet 8  Tasks
-
---Add index to improve search on orders.
-Create index  idx_orders_customer_id
-on Orders(customer_id);
-
-
---Use EXPLAIN to analyze query
-set statistics profile on ;
-
-select *
-from Orders
-where customer_id = 1;
-
-set statistics profile off ;
-
-
---Optimize a slow join query
-select  *
-from Customers c
-JOIN Orders o
-on  c.customer_id = o.customer_id;
-
-Create index  idx_orders_customer_id
-on Orders(customer_id);
-
-select  
-    c.name,
-    o.amount
-from Customers c
-JOIN Orders o
-on  c.customer_id = o.customer_id;
-
-
---Explain when index should not be used
-
---Returns almost all rows 
-
-SELECT * FROM orders WHERE amount > 5000;
-
-
-
 SELECT * 
 FROM Orders
 WHERE Order_id = 1003;
+
